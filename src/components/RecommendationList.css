@@ -1,0 +1,23 @@
+.recommendation-list {
+  margin-top: 15px;
+  padding-top: 20px;
+  border-top: 1px solid #e0e0e0;
+}
+
+.recommendations-container {
+  display: flex;
+  gap: 16px;
+  overflow-x: auto;
+  padding: 10px 0;
+}
+
+.recommendations-container .dress-card {
+  flex: 0 0 calc(33.333% - 16px);
+  min-width: 250px;
+}
+
+@media (max-width: 768px) {
+  .recommendations-container .dress-card {
+    min-width: 200px;
+  }
+} 
