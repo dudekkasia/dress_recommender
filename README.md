@@ -2,6 +2,13 @@
 
 An application recommending dresses in Soft Feminine style based on user preferences.
 
+<img width="1464" alt="image" src="https://github.com/user-attachments/assets/5342c1f2-1ba3-4ecb-a0ca-d32e68b97a2c" />
+<img width="1448" alt="image" src="https://github.com/user-attachments/assets/84ac16c2-a949-463d-9bfe-64efd73fec98" />
+
+
+
+
+
 ## Application Purpose
 
 The purpose of the application is to recommend dresses in Soft Feminine style based on the user's preferences. The Soft Feminine style is characterized by delicacy and elegance, with flowing silhouettes, pastel colors, floral patterns, and light fabrics, emphasizing grace and charm, often with details such as ruffles, lace, and soft textures.
